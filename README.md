@@ -34,11 +34,9 @@ Images are stored in the figures/ folder and will load automatically.
 
 ### Repository Structure
 
-portfolio.ipynb  
-
-figures/  
-
-README.md  
+* README.md  
+* portfolio.ipynb  
+* figures/  
 
 ### Tools
 
