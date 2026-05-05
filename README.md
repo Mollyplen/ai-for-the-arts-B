@@ -2,7 +2,10 @@
 ## Mixed-Media Digital Scrapbook
 
 **Course:** AI for the Arts & Humanities (B), University of Glasgow
+
 **Archive Object:**  MS Murray 167: Notes of Cruises in the “Raven” and “Wave” (1850–1866), University of Glasgow Special Collections
+
+**View the full project here:** https://cough-rose-96510785.figma.site 
 
 ### Project Overview
 
